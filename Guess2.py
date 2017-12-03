@@ -9,7 +9,7 @@ print(r''' __      __       .__                                  __             
 #   \        /\  ___/|  |_\  \__(  <_> )  Y Y  \  ___/ 
 #    \__/\  /  \___  >____/\___  >____/|__|_|  /\___  >
 #         \/       \/          \/            \/     \/
-Woahhh! Guess game v2? Add me in discord! Rick Sanchez#5068''')
+(outdated, 12/3/17)Woahhh! Guess game v2? Add me in discord! Rick Sanchez#5068''')
 
 def delay(x):
   time.sleep(x)
